@@ -1,0 +1,6 @@
+192.168.2.102
+superimage
+root
+woailijing
+3306
+utf8

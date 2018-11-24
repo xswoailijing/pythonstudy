@@ -1,0 +1,10 @@
+100
+100
+4389
+36
+100
+5
+5
+gbk
+utf8
+http://sc.chinaz.com/

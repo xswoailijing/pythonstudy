@@ -1,0 +1,25 @@
+SQLCONNECTTEXT_EN=[
+    "HOST",
+    "USER",
+    "PASSWD",
+    "DB",
+    "PORT",
+    "CHARSET"
+]
+SQLCONNECTTEXT_CN=[
+    "HOST(SQL地址):",
+    "USER(用户名):",
+    "PASSWD(密码):",
+    "DB(数据库名):",
+    "PORT(端口):",
+    "CHARSET(数据库默认编码):"
+]
+SQLCONNECTTEXT_VAR=[
+    "host",
+    "user",
+    "passwd",
+    "db",
+    "prot",
+    "charset"
+]
+
