@@ -39,7 +39,7 @@ class mysql():
             self.info=("请先创建数据库")
 
 
-    def createsql(self,dbhost="192.168.2.102", dbname="superimage", dbuser="root", dbpassword="woailijing", dbport=3306,
+    def createsql(self,dbhost="192.168.2.102", dbname="superimage", dbuser="root", dbpassword="password", dbport=3306,
                  charset="utf8"):
         #连接数据库
 
